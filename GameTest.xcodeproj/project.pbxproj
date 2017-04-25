@@ -17,6 +17,7 @@
 		9D6FDC9F1DE9B1FC00F902DD /* GameTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D6FDC9E1DE9B1FC00F902DD /* GameTestTests.swift */; };
 		9D6FDCAA1DE9B1FC00F902DD /* GameTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D6FDCA91DE9B1FC00F902DD /* GameTestUITests.swift */; };
 		9DEDA69E1EAF41C000A1CE85 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 9DEDA69D1EAF41C000A1CE85 /* GameScene.sks */; };
+		9DEDA6A21EAF4DE500A1CE85 /* screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DEDA6A11EAF4DE500A1CE85 /* screenshot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		9DEDA69D1EAF41C000A1CE85 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
 		9DEDA69F1EAF4C2000A1CE85 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/Main.strings; sourceTree = "<group>"; };
 		9DEDA6A01EAF4C2000A1CE85 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		9DEDA6A11EAF4DE500A1CE85 /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 		9D6FDC821DE9B1FC00F902DD /* GameTest */ = {
 			isa = PBXGroup;
 			children = (
+				9DEDA6A11EAF4DE500A1CE85 /* screenshot.png */,
 				9D6FDC831DE9B1FC00F902DD /* AppDelegate.swift */,
 				9DEDA69D1EAF41C000A1CE85 /* GameScene.sks */,
 				9D6FDC871DE9B1FC00F902DD /* Actions.sks */,
@@ -247,6 +250,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9D6FDC8F1DE9B1FC00F902DD /* Main.storyboard in Resources */,
+				9DEDA6A21EAF4DE500A1CE85 /* screenshot.png in Resources */,
 				9DEDA69E1EAF41C000A1CE85 /* GameScene.sks in Resources */,
 				9D6FDC911DE9B1FC00F902DD /* Assets.xcassets in Resources */,
 				9D6FDC941DE9B1FC00F902DD /* LaunchScreen.storyboard in Resources */,
